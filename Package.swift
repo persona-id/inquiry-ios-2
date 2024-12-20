@@ -14,7 +14,7 @@ let package = Package(
     .binaryTarget(
       name: "Persona2",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/2.24.0/Persona2.xcframework.zip",
-      checksum: "c08d5d28139d8ed1f9638508529576d80614ce4c01cfa0899bd962a5241ef7f1"
+      checksum: "1fe43bed4f18cc8ff0dd6eabd95f0bcc471e13c362b4f211509ce0918006f418"
     )
   ]
 )
