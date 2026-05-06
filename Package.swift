@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
@@ -13,8 +13,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Persona2",
-      url: "https://github.com/persona-id/inquiry-ios-2/releases/download/2.46.0/Persona2.xcframework.zip",
-      checksum: "04e27d0e2420c21a01668ed6f91c0b917c22132396f58225e96bef0ee7cde8f7"
+      url: "https://github.com/persona-id/inquiry-ios-2/releases/download/2.47.0-RC/Persona2.xcframework.zip",
+      checksum: "e6b4d8d7b7c69563728486bc05c83622aa56d86630fd86511ee4bbd1a00e0cbc"
     )
   ]
 )
