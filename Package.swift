@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
   name: "PersonaInquirySDK2",
-  platforms: [.iOS(.v13)],
+  platforms: [.iOS("17.6")],
   products: [
     .library(
       name: "PersonaInquirySDK2",
@@ -13,8 +13,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Persona2",
-      url: "https://github.com/persona-id/inquiry-ios-2/releases/download/2.48.1/Persona2.xcframework.zip",
-      checksum: "923806c6ae933dbd89eb9dc4076f00b484f19da3aac87df3b142726ec41fa605"
+      url: "https://github.com/persona-id/inquiry-ios-2/releases/download/3.0.0-RC/Persona2.xcframework.zip",
+      checksum: "b5aafaeb7bbe410347c1f35531d18657a76f9bff15ce47c4287cd2ed2aaedfae"
     )
   ]
 )
