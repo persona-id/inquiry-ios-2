@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
   s.name         = 'PersonaInquirySDK2'
-  s.version      = '2.54.0-beta.1'
+  s.version      = '3.7.0-beta.1'
   s.summary      = 'Persona Inquiry Dynamic Flow SDK'
   s.homepage     = 'https://github.com/persona-id/inquiry-ios-2'
   s.author       = 'Persona Identities, Inc.'
   s.license      = { :type => 'Persona License', :file => 'LICENSE' }
   s.platform     = 'ios'
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '15.0'
 
-  s.source       = { :http => 'https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/2.54.0-beta.1/PersonaInquirySDK2.zip' }
+  s.source       = { :http => 'https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/3.7.0-beta.1/PersonaInquirySDK2.zip' }
   s.vendored_frameworks = 'Persona2.xcframework'
 
   # 1.7 is needed for `swift_versions` support
