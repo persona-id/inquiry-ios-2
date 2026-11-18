@@ -17,18 +17,18 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Persona2",
-      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.1/Persona2.xcframework.zip",
-      checksum: "f17c54e3758f26d43f26d27d278b41a628917fdfc7b5b479bec2c4b092077d1d"
+      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.2/Persona2.xcframework.zip",
+      checksum: "3f3a158aa665a5be14e6dac8bb7793d0c92d582ccc1c13ac401cd010bdb55718"
     ),
     .binaryTarget(
       name: "Persona2Protected",
-      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.1/Persona2Protected.xcframework.zip",
-      checksum: "66fcb3ff011723d495abdedeb163964756142c47ba21973ed4b4d13bdeac6e6f"
+      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.2/Persona2Protected.xcframework.zip",
+      checksum: "05717c366b1d574ba2821c03fe00da0777b753acf9005fe290d2a16a65895d06"
     ),
     .binaryTarget(
       name: "Persona2libloader",
-      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.1/Persona2libloader.xcframework.zip",
-      checksum: "e0657ac405da291f83c950bf9c53067327e81a7566d05b1982699bba3d817a22"
+      url: "https://storage.googleapis.com/sdk.withpersona.com/ios/v2/releases/4.0.2-beta.2/Persona2libloader.xcframework.zip",
+      checksum: "1160876f71efbec14f23e21ca65c67a74ac8faaef299a1e846f05435883f914d"
     )
   ]
 )
