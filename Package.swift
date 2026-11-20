@@ -50,52 +50,52 @@ let package = Package(
     .binaryTarget(
       name: "Persona2",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/Persona2.xcframework.zip",
-      checksum: "50234fd45af60a2bd6d89eca53216b50929d81bb8317abf1bf522b249f9b0dd9"
+      checksum: "9e839101b247d5a2e47cc07b6257d36b354b37cd5b674536417b4f36b4b84cc6"
     ),
     .binaryTarget(
       name: "PersonaAnimations",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaAnimations.xcframework.zip",
-      checksum: "3e36b46d17ba46bca9be2d619388eb5fdd03f766a30e2d31344a157a4fb38585"
+      checksum: "a2a9cd3f69e77e395aa3c6f10eef80c4cf307ce4554eef6001fedaeb5391070e"
     ),
     .binaryTarget(
       name: "PersonaAssets",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaAssets.xcframework.zip",
-      checksum: "d423cc702aceaa753446620e697930ef0a9ebb8e0cf1cbb108e6a27f9bd3e591"
+      checksum: "b611414282b73dbf03919132e6c713afd819ee116c754ec39efeacac87ee371a"
     ),
     .binaryTarget(
       name: "PersonaCallKit",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaCallKit.xcframework.zip",
-      checksum: "6ad2facd2fb0597ee9c51ed87b3851af86e1cad0431485b62bb6de811370621b"
+      checksum: "5820d987fc580be8777f0e1dbeb5ba0cd817c9f33f0192ad2be77bc9f17d5c39"
     ),
     .binaryTarget(
       name: "PersonaNfc",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaNfc.xcframework.zip",
-      checksum: "fb1ec0db6c1bb276d1641cc754c81b475069f483b2fc02fc96acfe6bb805f7e3"
+      checksum: "0d23e5a77c7f3e8e347c96f32d9a193ace6566054068ad766b058804caecdf4a"
     ),
     .binaryTarget(
       name: "PersonaSna",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaSna.xcframework.zip",
-      checksum: "9419f73ad95363c86cf583a95fe7ae002246f0f30de3638551704447222911f2"
+      checksum: "a2cb566f14f8d5bd3fa1bffdf240bca6a68422107c53adeca559f0bab7e2bfa9"
     ),
     .binaryTarget(
       name: "PersonaWebRtc",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaWebRtc.xcframework.zip",
-      checksum: "8c7d7c36daec01e162f18467b7daa531fb16341a29e241905dd4ef939a37f1fd"
+      checksum: "0f7cddcfb6d90e5afd6e87f2ca3f20778b41a710fd3ee92a65719a634e1228cf"
     ),
     .binaryTarget(
       name: "PersonaSentinel",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/PersonaSentinel.xcframework.zip",
-      checksum: "d513a1f601d075c0aca2e55ed429b28980dcf985aabe1f6892bb4cfedd82cd0f"
+      checksum: "ecba73477fa5e55ca05393ac6a4d5ff723113ce4e2d88bed1beb3e2eade8328d"
     ),
     .binaryTarget(
       name: "Persona2Protected",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/Persona2Protected.xcframework.zip",
-      checksum: "27265faca2710f67804b2653fca2edc0db0ee65a03715a91c14b90fd1bca8566"
+      checksum: "0370de3d5dd90e7944475bb3a57e073b7ed2bfc8a28fe7601386ff81aa0d8f5e"
     ),
     .binaryTarget(
       name: "Persona2libloader",
       url: "https://github.com/persona-id/inquiry-ios-2/releases/download/5.0.0-RC/Persona2libloader.xcframework.zip",
-      checksum: "bdcb75fd40216196076e4f65b37823c5ab48dc40414ae469080c0f68a082dd1e"
+      checksum: "ff3bece328f5fdfbcafb7bf3e1ff4d4eb21e9f93e61ce8ca7b06f773b5b4ca90"
     )
   ]
 )
